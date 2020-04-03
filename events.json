@@ -1,9 +1,10 @@
-[{
-  "name":"Pro Night",
-  "img":""
-},
 {
-  "name":"Musical Event",
-  "img":""
-}
-}]
+  0:[{
+    "name":"Pro Night",
+    "img":""
+  },
+  {
+    "name":"Musical Event",
+    "img":""
+  }
+]}
