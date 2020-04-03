@@ -2,29 +2,29 @@
     "mainevents": [
         {
             "name": "Pro Night",
-            "img": "https://picsum.photos/400/300"
+            "img": "https://picsum.photos/410/300"
         },
         {
             "name": "Musical Event",
-            "img": "https://picsum.photos/400/300"
+            "img": "https://picsum.photos/400/310"
         }
     ],
     "subevents": [
         {
             "name":"Dirt Race",
-            "img":"https://picsum.photos/400/300"
+            "img":"https://picsum.photos/420/300"
         },
         {
             "name":"Break The Floor",
-            "img":"https://picsum.photos/400/300"
+            "img":"https://picsum.photos/400/320"
         },
         {
             "name":"Tug of War",
-            "img":"https://picsum.photos/400/300"
+            "img":"https://picsum.photos/430/300"
         },
         {
             "name":"Body Show",
-            "img":"https://picsum.photos/400/300"
+            "img":"https://picsum.photos/400/330"
         }
     ]
 }
