@@ -1,10 +1,30 @@
 {
-  "0":[{
-    "name":"Pro Night",
-    "img":"https://blog.thomascook.in/wp-content/uploads/2017/11/Untitled-design-91-1-1.png"
-  },
-  {
-    "name":"Musical Event",
-    "img":"https://sunburn.in/wp-content/uploads/2018/09/credit_Baricci-0101-copy.jpg"
-  }
-]}
+    "mainevents": [
+        {
+            "name": "Pro Night",
+            "img": "https://picsum.photos/400/300"
+        },
+        {
+            "name": "Musical Event",
+            "img": "https://picsum.photos/400/300"
+        }
+    ],
+    "subevents": [
+        {
+            "name":"Dirt Race",
+            "img":"https://picsum.photos/400/300"
+        },
+        {
+            "name":"Break The Floor",
+            "img":"https://picsum.photos/400/300"
+        },
+        {
+            "name":"Tug of War",
+            "img":"https://picsum.photos/400/300"
+        },
+        {
+            "name":"Body Show",
+            "img":"https://picsum.photos/400/300"
+        }
+    ]
+}
