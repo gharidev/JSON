@@ -1,44 +1,43 @@
 {
-    "files": [
-        {
-            "name": "Common grenadier",
-            "url": "http://dummyimage.com/2102x1026.png/5fa2dd/ffffff"
-        },
-        {
-            "name": "Lappet-faced vulture",
-            "url": "http://dummyimage.com/1732x2198.jpg/dddddd/000000"
-        },
-        {
-            "name": "Salmon, sockeye",
-            "url": "http://dummyimage.com/1181x1859.bmp/dddddd/000000"
-        },
-        {
-            "name": "Galapagos penguin",
-            "url": "http://dummyimage.com/2074x2186.png/5fa2dd/ffffff"
-        },
-        {
-            "name": "Steller's sea lion",
-            "url": "http://dummyimage.com/1847x1468.jpg/dddddd/000000"
-        },
-        {
-            "name": "Feral rock pigeon",
-            "url": "http://dummyimage.com/1882x1093.bmp/cc0000/ffffff"
-        },
-        {
-            "name": "Large-eared bushbaby",
-            "url": "http://dummyimage.com/2420x1098.bmp/ff4444/ffffff"
-        },
-        {
-            "name": "Common long-nosed armadillo",
-            "url": "http://dummyimage.com/2156x1486.png/ff4444/ffffff"
-        },
-        {
-            "name": "Cuis",
-            "url": "http://dummyimage.com/1563x2046.bmp/cc0000/ffffff"
-        },
-        {
-            "name": "Brown pelican",
-            "url": "http://dummyimage.com/1543x1701.png/dddddd/000000"
-        }
-    ]
+    "files": [{
+  "file_id": "75de57a0-2645-40d1-905c-dbd42977ba53",
+  "name": "Cormorant (unidentified)",
+  "url": "http://dummyimage.com/1345x2081.jpg/ff4444/ffffff"
+}, {
+  "file_id": "519c0a46-5042-4a1b-871a-c421ccafd33b",
+  "name": "Horned lark",
+  "url": "http://dummyimage.com/1524x1853.bmp/ff4444/ffffff"
+}, {
+  "file_id": "c780d7fc-a385-4b60-ad64-d48bc7e66985",
+  "name": "Trumpeter, dark-winged",
+  "url": "http://dummyimage.com/1230x1647.bmp/dddddd/000000"
+}, {
+  "file_id": "5ef231d2-9259-4b84-8f1b-4e466313567e",
+  "name": "Civet, common palm",
+  "url": "http://dummyimage.com/2295x1747.png/ff4444/ffffff"
+}, {
+  "file_id": "f1e00900-6baa-4f53-90d9-e5f01bde447e",
+  "name": "Dove, little brown",
+  "url": "http://dummyimage.com/1256x2113.jpg/5fa2dd/ffffff"
+}, {
+  "file_id": "2c77a0f0-460d-4d22-a884-b1db5d51cd04",
+  "name": "Sidewinder",
+  "url": "http://dummyimage.com/2325x1188.bmp/cc0000/ffffff"
+}, {
+  "file_id": "74070ac4-28f5-435c-be67-59eadfce29e1",
+  "name": "Mexican wolf",
+  "url": "http://dummyimage.com/1699x1734.jpg/ff4444/ffffff"
+}, {
+  "file_id": "ba418db6-8438-4baa-858f-88cbf01bbb0b",
+  "name": "Cottonmouth",
+  "url": "http://dummyimage.com/2417x2280.jpg/cc0000/ffffff"
+}, {
+  "file_id": "f7481efb-1547-41ad-af5e-671cfd774738",
+  "name": "Buffalo, asian water",
+  "url": "http://dummyimage.com/1947x1413.png/5fa2dd/ffffff"
+}, {
+  "file_id": "f25b56fc-5b7d-4dd5-9f7d-6e4f1e948510",
+  "name": "Long-billed corella",
+  "url": "http://dummyimage.com/2362x1864.png/ff4444/ffffff"
+}]
 }
