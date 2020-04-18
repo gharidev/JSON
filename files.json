@@ -1,0 +1,44 @@
+{
+    "files": [
+        {
+            "name": "Common grenadier",
+            "url": "http://dummyimage.com/2102x1026.png/5fa2dd/ffffff"
+        },
+        {
+            "name": "Lappet-faced vulture",
+            "url": "http://dummyimage.com/1732x2198.jpg/dddddd/000000"
+        },
+        {
+            "name": "Salmon, sockeye",
+            "url": "http://dummyimage.com/1181x1859.bmp/dddddd/000000"
+        },
+        {
+            "name": "Galapagos penguin",
+            "url": "http://dummyimage.com/2074x2186.png/5fa2dd/ffffff"
+        },
+        {
+            "name": "Steller's sea lion",
+            "url": "http://dummyimage.com/1847x1468.jpg/dddddd/000000"
+        },
+        {
+            "name": "Feral rock pigeon",
+            "url": "http://dummyimage.com/1882x1093.bmp/cc0000/ffffff"
+        },
+        {
+            "name": "Large-eared bushbaby",
+            "url": "http://dummyimage.com/2420x1098.bmp/ff4444/ffffff"
+        },
+        {
+            "name": "Common long-nosed armadillo",
+            "url": "http://dummyimage.com/2156x1486.png/ff4444/ffffff"
+        },
+        {
+            "name": "Cuis",
+            "url": "http://dummyimage.com/1563x2046.bmp/cc0000/ffffff"
+        },
+        {
+            "name": "Brown pelican",
+            "url": "http://dummyimage.com/1543x1701.png/dddddd/000000"
+        }
+    ]
+}
