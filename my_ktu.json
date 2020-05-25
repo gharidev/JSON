@@ -1,0 +1,91 @@
+{
+  "notes": [
+    {
+      "batch": "2015 Batch", 
+      "courses": [
+        {
+          "course": "Computer Science & Engineering", 
+          "course_abbr": "CSE", 
+          "semesters": [
+            {
+              "semester": "First Year", 
+              "subjects": [
+                {
+                  "code": "ME200", 
+                  "modules": [
+                    {
+                      "module": "Module 1", 
+                      "url": "https://file-examples.com/wp-content/uploads/2017/10/file-example_PDF_1MB.pdf"
+                    }, 
+                    {
+                      "module": "Module 2", 
+                      "url": "https://file-examples.com/wp-content/uploads/2017/10/file-example_PDF_500_kB.pdf"
+                    }
+                  ], 
+                  "subject": "Basics of Mechanical Engineering", 
+                  "syllabus": [
+                    {
+                      "syllabus": "Syllabus", 
+                      "url": "https://file-examples.com/wp-content/uploads/2017/10/file-sample_150kB.pdf"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "semester": "S3", 
+              "subjects": []
+            }
+          ]
+        }, 
+        {
+          "course": "Mechanical Engineering", 
+          "course_abbr": "ME", 
+          "semesters": [
+            {
+              "semester": "First Year", 
+              "subjects": []
+            }, 
+            {
+              "semester": "S3", 
+              "subjects": []
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "batch": "2019 Batch", 
+      "courses": [
+        {
+          "course": "Computer Science & Engineering", 
+          "course_abbr": "CSE", 
+          "semesters": [
+            {
+              "semester": "First Year", 
+              "subjects": []
+            }, 
+            {
+              "semester": "S3", 
+              "subjects": []
+            }
+          ]
+        }, 
+        {
+          "course": "Mechanical Engineering", 
+          "course_abbr": "ME", 
+          "semesters": [
+            {
+              "semester": "First Year", 
+              "subjects": []
+            }, 
+            {
+              "semester": "S3", 
+              "subjects": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
